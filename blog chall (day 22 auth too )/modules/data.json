@@ -1,0 +1,4 @@
+[{"id":1,"name":"Entry 1","content":"This is the content of entry 1.", "idUser":1},
+{"id":2,"name":"Entry 2","content":"This is the content of entry 2.", "idUser":1},
+{"id":3,"name":"Entry 3","content":"This is the content of entry 3.", "idUser":1},
+{"id":4,"name":"Entry 1","content":"This is the content of entry 1.", "idUser":2}]
