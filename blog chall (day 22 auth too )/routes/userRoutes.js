@@ -9,6 +9,4 @@ routerUser.get("/", getUsers)
 
 
 
-
-
 module.exports=routerUser;
