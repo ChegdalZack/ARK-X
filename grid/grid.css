@@ -1,0 +1,63 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 2fr 2fr 2fr;
+    width: 800px;
+    height: 400px;
+    gap: 10px;
+    
+
+}
+ 
+  .item1 {
+   grid-column-start: 1;
+   grid-column-end: 2;
+   grid-row-start: 1;
+   grid-row-end: 3;
+    background-image: url(https://poster.moncinepack.fr/MA/poster/223EFDE2/320/KCHNB.jpg?optimizer=image);
+    background-size: cover;
+  }
+  
+  .item2 {
+    grid-column-start: 2;
+    grid-column-end: 4;
+
+    background-image: url(https://poster.moncinepack.fr/MA/poster/223EFDE2/320/KCHNB.jpg?optimizer=image);
+    background-size: cover;
+
+
+  }
+  
+  .item3 {
+    grid-column-start: 4;
+    grid-column-end: 6;
+
+    background-image: url(https://poster.moncinepack.fr/MA/poster/223EFDE2/320/KCHNB.jpg?optimizer=image);
+    background-size: cover;
+
+
+
+  }
+  .item4 {
+    grid-column-start: 2;
+    grid-column-end: 3;
+
+
+    background-image: url(https://poster.moncinepack.fr/MA/poster/223EFDE2/320/KCHNB.jpg?optimizer=image);
+    background-size: cover;
+
+
+  }
+  .item5 {
+    grid-column-start: 3;
+    grid-column-end: 5;
+    grid-row-start:2;
+    grid-row-end:3;
+
+    background-image: url(https://poster.moncinepack.fr/MA/poster/223EFDE2/320/KCHNB.jpg?optimizer=image);
+    background-size: cover;
+
+
+  }
+
+  
